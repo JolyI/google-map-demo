@@ -2,7 +2,7 @@
 
 >  google map 官方文档地址 https://developers.google.com/maps/documentation/javascript/reference?hl=zh-cn&authuser=1
 
-**打不开的 用[vpn](https://portal.dc-site5.com/#/register?code=kZ7FosPo)** 
+**打不开的 用[vpn--点我打开](https://portal.dc-site5.com/#/register?code=kZ7FosPo)** 
 
 ## Customize configuration
 
